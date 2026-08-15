@@ -1,4 +1,4 @@
-# 🇮🇳 India’s Economic Growth & GDP Analysis (2011–2026)
+## India’s Economic Growth & GDP Analysis (2011–2026)
 
 An interactive **Power BI dashboard** analyzing India’s GDP, state-wise GSDP, GDP growth, quarterly trends, and sector-wise GVA.
 
@@ -63,7 +63,7 @@ This project strengthened practical skills in:
 * Add deeper state-level analysis
 * Add automated data refresh
 
-## 🇮🇳 Challenge
+## Challenge
 
 Created as part of the **Independence Day Tech Creation Challenge 2026**, using Power BI to create an India-themed technical work sample.
 
